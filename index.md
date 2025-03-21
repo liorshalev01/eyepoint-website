@@ -11,7 +11,7 @@ layout: default
 
 > **Air-Gap Protection for Remote Work**
 >
-> We deliver the air-gap security for remote endpoints by ensuring data is only decrypted at the user’s eye level.
+> We deliver the air-gap security for remote endpoints by ensuring data is only decrypted at the eye level.
 
 ## The Problem
 
