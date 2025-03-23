@@ -1,10 +1,14 @@
 .DS_Store
 .vscode
-.env
 
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-.bundle/
-vendor/
+/node_modules
+/build
+
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+.docusaurus
+.cache-loader

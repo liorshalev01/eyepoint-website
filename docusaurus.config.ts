@@ -1,0 +1,59 @@
+import type * as Preset from '@docusaurus/preset-classic'
+import type { Config } from '@docusaurus/types'
+
+const config: Config = {
+  url: 'https://eyepoint-sec.com/',
+  baseUrl: '/',
+
+  title: 'Eyepoint Security',
+  tagline: 'Air Gap Protection for Remote Work',
+  favicon: 'img/favicon.ico',
+
+  onBrokenLinks: 'throw',
+  onBrokenAnchors: 'throw',
+  onBrokenMarkdownLinks: 'throw',
+  onDuplicateRoutes: 'throw',
+
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
+
+  presets: [
+    [
+      'classic',
+      {
+        docs: false,
+        blog: false,
+        pages: {},
+        theme: {
+          customCss: ['./src/css/custom.css', './src/css/docu-notion-styles.css'],
+        },
+        gtag: {
+          trackingID: 'G-9JB29EVXQ5',
+          anonymizeIP: true,
+        },
+      } satisfies Preset.Options,
+    ],
+  ],
+
+  themeConfig: {
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: true,
+    },
+    navbar: {
+      title: 'Eyepoint Security',
+      logo: {
+        alt: 'Eyepoint Security Logo',
+        src: 'img/logo.png',
+      },
+      items: [],
+    },
+    footer: {
+      copyright: `Copyright © ${new Date().getFullYear()} Eyepoint Security`,
+    },
+  } satisfies Preset.ThemeConfig,
+}
+
+export default config
