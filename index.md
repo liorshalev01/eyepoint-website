@@ -11,17 +11,17 @@ layout: default
 
 > **Air-Gap Protection for Remote Work**
 >
-> We deliver the air-gap security for remote endpoints by ensuring data is only decrypted at the eye level.
+> We deliver air-gap security for remote endpoints by ensuring data is only decrypted at user eye level.
 
 ## The Problem
 
-Endpoint devices are vulnerable. Attackers can take over apps or the operating system even when strict device security policies are in place. Some organizations prefer the flexibility of remote work but risk confidential data leaks from their employees’ endpoint devices. Other organizations give up the flexibility of remote work and adopt strict air-gap policies.
+Endpoint devices are vulnerable. Attackers can take over apps or the operating system even when strict device security policies are in place. Some organizations prefer the flexibility of remote work but risk confidential data leaks from endpoint devices. Other organizations give up the flexibility of remote work and adopt strict air-gap policies.
 
 ## Our Solution
 
-Our patented **augmented reality (AR) glasses** provide air-gap security without giving up the flexibility of remote work. Data remains encrypted until it reaches our AR glasses. Even on the user’s laptop or smartphone, the data remains encrypted and only becomes readable in front of the wearer’s eyes. This thwarts endpoint-based attacks since unencrypted data is never revealed to the operating system or network. Even if an attacker gains control of the user’s laptop or smartphone, the documents they’re viewing remain encrypted for an attacker.
+Our patented **augmented reality (AR) glasses** provide air-gap security without sacrificing remote work flexibility. Data remains encrypted until it reaches the AR glasses. Even on the user’s laptop or smartphone, the data remains encrypted and only becomes readable in front of the wearer’s eyes. This thwarts endpoint-based attacks since unencrypted data is never revealed to the operating system or network. Even if an attacker gains control of the user’s endpoint device, the documents they’re viewing remain encrypted for an attacker.
 
-In addition, our solution enables secure user input, such as signing documents or working with interactive web apps. Even if an attacker controls the user’s device, it cannot read or replay the input.
+In addition, our solution provides secure user input, such as signing documents or working with interactive web apps. The user input cannot be read or replayed by anyone else.
 
 ## How It Works
 
@@ -33,7 +33,14 @@ We generate unique encryption keys using each user’s biometric data, ensuring 
 
 **Eyepoint Security mitigates the challenges of securing data in a remote work world.** It brings air-gap level protection to everyday endpoints without sacrificing mobility or convenience. By decrypting data only within an isolated AR device, we ensure information remains safe from threats while enabling the flexibility modern organizations demand.
 
-**Our solution integrates with existing workflows and web apps,** and AR glasses users have a similar experience with these apps.
+## **The Market Opportunity**
+
+Some organizations prefer the flexibility of remote work, while others prefer strict air-gap policies. Each approach has advantages and disadvantages.
+
+- Remote work networks provide high productivity but a high risk of data leaks.
+- Closed air-gap networks provide a low risk of data leaks and low productivity.
+
+Since our solution provides both remote work productivity and a low risk of data leaks, the business opportunities come from both use cases. We offer **remote work with high productivity** for organizations that choose air-gap networks and **remote work with low risk of data leaks** for organizations that choose the productivity of remote work networks.
 
 ## About Us
 
