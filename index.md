@@ -18,10 +18,10 @@ In addition, the AR environment keeps user input (such as signing documents or i
 
 ## **How It Works**
 
-1. **Encrypted Display**. When users open or view confidential data, the application displays a **visually encrypted** version on-screen.
-2. **AR Decryption**. Our AR glasses detect and match encryption keys, then decrypt the data and overlay clear text over the application screen.
-3. **Biometric Key Generation**. Each user’s biometric data helps generate unique encryption keys so only the rightful wearer can access the information. If the glasses are lost or stolen, the data remains protected.
-4. **True Air-Gap**. The AR glasses are isolated from the network, making remote compromise virtually impossible. Decryption happens exclusively at eye level, so sensitive data never appears in plaintext at the endpoint or over the network.
+1. **Encrypted display.** When users open or view confidential data, the application displays a **visually encrypted** version on-screen.
+2. **AR decryption.** Our AR glasses detect and match encryption keys, then decrypt the data and overlay clear text over the application screen.
+3. **Biometric key generation.** Each user’s biometric data helps generate unique encryption keys so only the rightful wearer can access the information. If the glasses are lost or stolen, the data remains protected.
+4. **True air-gap.** The AR glasses are isolated from the network, making remote compromise virtually impossible. Decryption happens exclusively at eye level, so sensitive data never appears in plaintext at the endpoint or over the network.
 
 Employees can open sensitive documents on any laptop, yet the text remains encrypted until viewed through our AR glasses, preventing unauthorized screenshots or key logging.
 
