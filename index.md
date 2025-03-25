@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Eyepoint Security: Air-Gap Protection for Remote Work
 
 **We deliver air-gap security for remote endpoints by ensuring that data is only decrypted at the user’s eye level.**
