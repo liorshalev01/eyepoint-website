@@ -37,6 +37,19 @@ const config: Config = {
     ],
   ],
 
+  markdown: {
+    parseFrontMatter: async (params) => {
+      const { frontMatter, content } = await params.defaultParseFrontMatter(params)
+
+      return {
+        frontMatter: {
+          ...frontMatter,
+          hide_table_of_contents: true,
+        },
+        content,
+      }
+    },
+  },
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
@@ -51,6 +64,11 @@ const config: Config = {
       items: [],
     },
     footer: {
+      logo: {
+        alt: 'Eyepoint Security Logo',
+        src: 'img/logo-with-name.png',
+        href: 'https://eyepoint-sec.com/',
+      },
       copyright: `Copyright © ${new Date().getFullYear()} Eyepoint Security`,
     },
   } satisfies Preset.ThemeConfig,
