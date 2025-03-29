@@ -67,7 +67,7 @@ const config: Config = {
     footer: {
       logo: {
         alt: 'Eyepoint Security Logo',
-        src: 'img/logo-with-name.png',
+        src: 'img/logo-transparent.png',
       },
       copyright: `Copyright © ${new Date().getFullYear()} Eyepoint Security`,
     },
