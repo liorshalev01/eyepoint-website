@@ -38,13 +38,6 @@ const config: Config = {
     ],
   ],
 
-  stylesheets: [
-    {
-      href: 'https://fonts.googleapis.com/css2?family=Roboto',
-      type: 'text/css',
-    },
-  ],
-
   markdown: {
     parseFrontMatter: async (params) => {
       const { frontMatter, content } = await params.defaultParseFrontMatter(params)
