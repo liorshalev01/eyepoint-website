@@ -6,7 +6,8 @@ const config: Config = {
   baseUrl: '/',
 
   title: 'Eyepoint Security',
-  tagline: 'Air Gap Protection for Remote Work',
+  tagline:
+    'We deliver air-gap security for remote endpoints by ensuring that data is only decrypted at the user’s eye level.',
   favicon: 'img/favicon.ico',
 
   onBrokenLinks: 'throw',
@@ -40,7 +41,6 @@ const config: Config = {
   markdown: {
     parseFrontMatter: async (params) => {
       const { frontMatter, content } = await params.defaultParseFrontMatter(params)
-
       return {
         frontMatter: {
           ...frontMatter,
@@ -50,6 +50,7 @@ const config: Config = {
       }
     },
   },
+
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
