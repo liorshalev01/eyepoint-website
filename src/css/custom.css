@@ -8,6 +8,12 @@
   --ifm-color-primary-lightest: #77c4af;
 }
 
+:root {
+  --ifm-font-family-base:
+    -apple-system, 'system-ui', 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji';
+}
+
 .mdx-page {
   max-width: 50rem;
   margin: auto;
