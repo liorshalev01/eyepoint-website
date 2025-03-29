@@ -67,7 +67,6 @@ const config: Config = {
       logo: {
         alt: 'Eyepoint Security Logo',
         src: 'img/logo-with-name.png',
-        href: 'https://eyepoint-sec.com/',
       },
       copyright: `Copyright © ${new Date().getFullYear()} Eyepoint Security`,
     },
