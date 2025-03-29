@@ -1,0 +1,19 @@
+:root {
+  --ifm-color-primary: #49a98f;
+  --ifm-color-primary-dark: #429881;
+  --ifm-color-primary-darker: #3e907a;
+  --ifm-color-primary-darkest: #337664;
+  --ifm-color-primary-light: #55b59b;
+  --ifm-color-primary-lighter: #5db9a0;
+  --ifm-color-primary-lightest: #77c4af;
+}
+
+:root {
+  --ifm-color-content: var(--ifm-color-emphasis-1000);
+  --ifm-footer-background-color: transparent;
+}
+
+.mdx-page {
+  max-width: 50rem;
+  margin: auto;
+}
