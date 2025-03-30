@@ -31,8 +31,8 @@ In addition, the AR environment keeps user input (such as signing documents or i
 
 1. **Encrypted display.** When users open or view confidential data, the application displays a visually encrypted version on-screen.
 2. **AR decryption.** Our AR glasses detect and match encryption keys, then decrypt the data and overlay clear text over the application screen.
-3. **Biometric key generation.** Each user’s biometric data helps generate unique encryption keys so only the rightful wearer can access the information. If the glasses are lost or stolen, the data remains protected.
-4. **True air-gap.** The AR glasses are isolated from the network, making remote compromise virtually impossible. Decryption happens exclusively at eye level, so sensitive data never appears in plaintext at the endpoint or over the network.
+3. **Biometric key.** Each user’s biometric data helps generate unique encryption keys so only the rightful wearer can access the information. If the glasses are lost or stolen, the data remains protected.
+4. **True air-gap.** The AR glasses are isolated from the network, making remote compromise virtually impossible. Decryption happens only at eye level, so sensitive data never appears in plaintext at the endpoint or over the network.
 
 Employees can open sensitive documents on any laptop, yet the text remains encrypted until viewed through our AR glasses, preventing unauthorized screenshots or key logging.
 
@@ -60,7 +60,7 @@ Our solution provides **both** high productivity and low risk of data leaks, ser
 Lior Shalev is a software developer with extensive experience designing and delivering high-performance, cross-platform solutions on Windows, Linux, Android, iOS, and cloud environments. Adept at building robust software pipelines and leading teams. Recognized for driving innovation in cybersecurity, large-scale distributed systems, and embedded software projects.
 
 
-### **Dr. Orna Yehuda Abramson** {#1bf8879d650180bc8dc4e73733d5e8ea}
+### **Dr. Orna Yehuda Abramson** {#1c68879d650180e08768c0afc1099ae9}
 
 
 [https://www.linkedin.com/in/droya/](https://www.linkedin.com/in/droya/)
