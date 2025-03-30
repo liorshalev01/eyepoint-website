@@ -15,13 +15,16 @@ slug: /index
 ## **The Problem** {#1bf8879d650180ebb373dd03eeb3bee3}
 
 
-Endpoint devices are vulnerable—attackers can take over apps or the operating system, even when strict security policies are in place. Some organizations value the flexibility of remote work, but risk data leaks from endpoint devices. Other organizations sacrifice remote work benefits and enforce strict air-gap policies to protect sensitive information.
+Endpoint devices are vulnerable. Attackers can take over apps or the operating system, even when strict security policies are in place. The discovery of zero-day and supply chain attacks is so common that it's nearly impossible to trust any laptop or smartphone's hardware or software.
+
+
+Some organizations value the flexibility of remote work, but risk data leaks from endpoint devices. Other organizations sacrifice remote work benefits and enforce strict air-gap policies to protect sensitive information.
 
 
 ## **Our Solution** {#1bf8879d650180f38998d3d4313b8ea5}
 
 
-Our patented **augmented reality (AR) glasses** combine air-gap security with the flexibility of remote work. Data remains encrypted on a user’s laptop or smartphone and only becomes readable once it reaches the AR glasses—never passing through the operating system in plaintext. This approach prevents attackers from seeing confidential data, even if they gain control over the endpoint.
+Our patented **augmented reality (AR) glasses** combine air-gap security with the flexibility of remote work. Data remains encrypted on a user’s laptop or smartphone and only becomes readable once it reaches the AR glasses and never passing through the operating system in plaintext. This approach prevents attackers from seeing confidential data, even if they gain control over the endpoint.
 
 
 In addition, the AR environment keeps user input (such as signing documents or interacting with web apps) secure, preventing interception and replay attacks.
@@ -29,14 +32,10 @@ In addition, the AR environment keeps user input (such as signing documents or i
 
 ## **How It Works** {#1bf8879d650180bf9321fb98174b2adf}
 
-1. **Encrypted Display.**
-When users open or view confidential data, the application displays a visually encrypted version on-screen.
-2. **AR Decryption.**
-Our AR glasses detect and match encryption keys, then decrypt the data and overlay clear text over the application screen.
-3. **Biometric Binding.**
-Each user’s biometric data helps generate unique encryption keys so only the rightful wearer can access the information. If the glasses are lost or stolen, the data remains protected.
-4. **Air-Gap.**
-The AR glasses are isolated from the network, making remote compromise virtually impossible. Decryption happens only at eye level, so sensitive data never appears in plaintext at the endpoint or over the network.
+1. **Encrypted Display.** When users open or view confidential data, the application displays a visually encrypted version on-screen.
+2. **AR Decryption.** Our AR glasses detect and match encryption keys, then decrypt the data and overlay clear text over the application screen.
+3. **Biometric Binding.** Each user’s biometric data helps generate unique encryption keys so only the rightful wearer can access the information. If the glasses are lost or stolen, the data remains protected.
+4. **Air-Gap.** The AR glasses are isolated from the network, making remote compromise virtually impossible. Decryption happens only at eye level, so sensitive data never appears in plaintext at the endpoint or over the network.
 
 Employees can open sensitive documents on any laptop, yet the text remains encrypted until viewed through our AR glasses, preventing unauthorized screenshots or key logging.
 
