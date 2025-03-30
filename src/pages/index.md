@@ -30,7 +30,7 @@ Our patented **augmented reality (AR) glasses** combine air-gap security with th
 In addition, the AR environment keeps user input (such as signing documents or interacting with web apps) secure, preventing interception and replay attacks.
 
 
-## **How It Works** {#1bf8879d650180bf9321fb98174b2adf}
+## How Do We Enable Remote Work and Air-Gap Duality? {#1bf8879d650180bf9321fb98174b2adf}
 
 1. **Encrypted Display.** When users open or view confidential data, the application displays a visually encrypted version on-screen.
 2. **AR Decryption.** Our AR glasses detect and match encryption keys, then decrypt the data and overlay clear text over the application screen.
