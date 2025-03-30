@@ -15,7 +15,7 @@ slug: /index
 ## **The Problem** {#1bf8879d650180ebb373dd03eeb3bee3}
 
 
-Endpoint devices are vulnerable. Attackers can take over apps or the operating system, even when strict security policies are in place. Whenever sensitive data appears on an endpoint display screen, it’s an opportunity for an attacker, and the discovery of zero-day and supply chain attacks is so common that it's nearly impossible to trust any laptop or smartphone's hardware or software. 
+Endpoint devices are vulnerable. Attackers can take over applications or the operating system, even when strict security policies are in place. Whenever sensitive data appears on an endpoint display screen, it’s an opportunity for an attacker, and the discovery of zero-day and supply chain attacks is so common that it's nearly impossible to trust any laptop or smartphone's hardware or software. 
 
 
 Some organizations value the flexibility of remote work, but risk data leaks from endpoint devices. Other organizations sacrifice remote work benefits and enforce strict air-gap policies to protect sensitive information.
