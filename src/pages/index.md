@@ -1,5 +1,5 @@
 ---
-title: index
+title: Home
 sidebar_position: 0
 slug: /index
 ---
@@ -9,7 +9,7 @@ slug: /index
 # Eyepoint Security: Air-Gap Protection for Remote Work {#1bf8879d650180819f59ef4e65a62440}
 
 
-**We deliver air-gap security for remote endpoints by ensuring that data is only decrypted at the user’s eye level.**
+**We’re redefining endpoint security for a remote-first world by protecting data where it matters the most: at the user’s eye level.**
 
 
 ## **The Problem** {#1bf8879d650180ebb373dd03eeb3bee3}
