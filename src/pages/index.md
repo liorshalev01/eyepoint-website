@@ -63,15 +63,6 @@ Our solution provides **both** high productivity and low risk of data leaks, ser
 Lior Shalev is a software developer with extensive experience designing and delivering high-performance, cross-platform solutions on Windows, Linux, Android, iOS, and cloud environments. Adept at building robust software pipelines and leading teams. Recognized for driving innovation in cybersecurity, large-scale distributed systems, and embedded software projects.
 
 
-### **Dr. Orna Yehuda Abramson** {#1c77da55074f8108818be679d4976913}
-
-
-[https://www.linkedin.com/in/droya/](https://www.linkedin.com/in/droya/)
-
-
-Dr. Orna Yehuda Abramson is an experienced startup professional, innovation researcher, and development consultant. With a background in cognitive & behavioral psychology and data-driven strategy, she specializes in applying cognitive and behavioral science to cybersecurity challenges, enhancing user security awareness, and driving innovative solutions in the industry.
-
-
 ### **Roy Melzer** {#1c77da55074f814294bfe0c2187a60c6}
 
 
