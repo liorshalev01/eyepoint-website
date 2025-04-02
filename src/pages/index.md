@@ -9,13 +9,13 @@ slug: /index
 # Eyepoint Security: Air-Gap Protection for Remote Work {#1c77da55074f81caaaacdf8775428083}
 
 
-**We’re redefining endpoint security for a remote-first world by protecting data where it matters the most: at the user’s eye level.**
+**We are redefining endpoint security for a remote-first world by protecting data where it matters the most: at the user’s eye level.**
 
 
 ## **The Problem** {#1c77da55074f8180875ccbc78baaa39b}
 
 
-Endpoint devices are vulnerable. Attackers can take over applications or the operating system, even when strict security policies are in place. Whenever sensitive data appears on an endpoint display screen, it’s an opportunity for an attacker, and the discovery of zero-day and supply chain attacks is so common that it's nearly impossible to trust any laptop or smartphone's hardware or software. 
+Endpoint devices are vulnerable. Attackers can take over applications or the operating system, even when strict security policies are in place. Whenever sensitive data appears on an endpoint display screen, it is an opportunity for an attacker, and the discovery of zero-day and supply chain attacks is so common that it is nearly impossible to trust any laptop or smartphone hardware or software. 
 
 
 Some organizations value the flexibility of remote work, but risk data leaks from endpoint devices. Other organizations sacrifice remote work benefits and enforce strict air-gap policies to protect sensitive information.
@@ -75,7 +75,7 @@ Roy Melzer is a seasoned Patent Portfolio Manager, IP Consultant, and Patent Lea
 ## **Join Us!** {#1c77da55074f8166b0c7c482526d6b32}
 
 
-We’re redefining endpoint security for a remote-first world. Protect your data where it matters most: at the user’s eye level.
+We are redefining endpoint security for a remote-first world. Protect your data where it matters most: at the user’s eye level.
 
 
 [info@eyepoint-sec.com](mailto:info@eyepoint-sec.com)
