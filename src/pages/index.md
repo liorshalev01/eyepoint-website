@@ -21,7 +21,7 @@ Some organizations value the flexibility of remote work, but risk data leaks fro
 Our patented **AR glasses** combine air-gap security with the flexibility of remote work. Data remains encrypted on a user’s laptop or smartphone and only becomes readable once it reaches the AR glasses and never passing through the operating system in plaintext. This approach prevents attackers from seeing confidential data, even if they gain control over the endpoint.
 
 
-In addition, the AR environment keeps user input (such as signing documents or interacting with web apps) secure, preventing interception and replay attacks. Employees can open sensitive documents, yet the data remains encrypted to applications or the operation system, preventing  data leaks or key logging.
+In addition, the AR environment keeps user input (such as signing documents or interacting with web apps) secure, preventing interception and replay attacks. Employees can open sensitive documents, yet the data remains encrypted to applications or the operation system, preventing data leaks or key logging.
 
 
 Our solution provides **both** high productivity and low risk of data leaks, serving organizations that currently prefer air-gap networks and those striving to enable safe remote work.
