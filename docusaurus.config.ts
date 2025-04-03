@@ -62,7 +62,12 @@ const config: Config = {
         alt: 'Eyepoint Security Logo',
         src: 'img/logo.png',
       },
-      items: [],
+      items: [
+        {
+          label: 'Home',
+          to: '/',
+        },
+      ],
     },
     footer: {
       logo: {

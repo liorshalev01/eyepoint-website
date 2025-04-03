@@ -27,7 +27,7 @@ In addition, the AR environment keeps user input (such as signing documents or i
 Our solution provides **both** high productivity and low risk of data leaks, serving organizations that currently prefer air-gap networks and those striving to enable safe remote work.
 
 
-## **Join Us!** {#1c77da55074f817eae1aff97120c47f9}
+## Contact Us {#1c77da55074f817eae1aff97120c47f9}
 
 
 We are redefining endpoint security for a remote-first world. Protect your data where it matters most.
