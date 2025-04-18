@@ -6,8 +6,7 @@ const config: Config = {
   baseUrl: '/',
 
   title: 'Eyepoint Security',
-  tagline:
-    'We deliver air-gap security for remote endpoints by ensuring that data is only decrypted at the user’s eye level.',
+  tagline: 'Visual Privacy Redefined.',
   favicon: 'img/favicon.ico',
 
   onBrokenLinks: 'throw',
