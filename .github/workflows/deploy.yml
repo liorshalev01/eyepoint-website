@@ -7,14 +7,14 @@ on:
 
 jobs:
   build:
-    name: Build Docusaurus
+    name: Build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
       - name: Copy index.html to build folder
-        run: cp index.html build/
+        run: mkdir build && cp index.html build/
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
